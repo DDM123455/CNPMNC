@@ -1,6 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Thuchanhcnpm",
+    "\\Thuchanhcnpm\\bin",
+    "\\Thuchanhcnpm\\bin\\Debug",
+    "\\Thuchanhcnpm\\obj",
+    "\\Thuchanhcnpm\\obj\\Debug",
+    "\\Thuchanhcnpm\\obj\\Release"
   ],
+  "SelectedNode": "\\Thuchanhcnpm\\obj\\Release",
   "PreviewInSolutionExplorer": false
 }

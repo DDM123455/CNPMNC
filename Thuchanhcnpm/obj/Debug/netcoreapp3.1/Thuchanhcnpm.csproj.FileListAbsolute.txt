@@ -1,0 +1,14 @@
+C:\Users\admin\Source\Repos\CNPMNC\Thuchanhcnpm\bin\Debug\netcoreapp3.1\Thuchanhcnpm.exe
+C:\Users\admin\Source\Repos\CNPMNC\Thuchanhcnpm\bin\Debug\netcoreapp3.1\Thuchanhcnpm.deps.json
+C:\Users\admin\Source\Repos\CNPMNC\Thuchanhcnpm\bin\Debug\netcoreapp3.1\Thuchanhcnpm.runtimeconfig.json
+C:\Users\admin\Source\Repos\CNPMNC\Thuchanhcnpm\bin\Debug\netcoreapp3.1\Thuchanhcnpm.runtimeconfig.dev.json
+C:\Users\admin\Source\Repos\CNPMNC\Thuchanhcnpm\bin\Debug\netcoreapp3.1\Thuchanhcnpm.dll
+C:\Users\admin\Source\Repos\CNPMNC\Thuchanhcnpm\bin\Debug\netcoreapp3.1\Thuchanhcnpm.pdb
+C:\Users\admin\Source\Repos\CNPMNC\Thuchanhcnpm\obj\Debug\netcoreapp3.1\Thuchanhcnpm.csproj.AssemblyReference.cache
+C:\Users\admin\Source\Repos\CNPMNC\Thuchanhcnpm\obj\Debug\netcoreapp3.1\Thuchanhcnpm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Source\Repos\CNPMNC\Thuchanhcnpm\obj\Debug\netcoreapp3.1\Thuchanhcnpm.AssemblyInfoInputs.cache
+C:\Users\admin\Source\Repos\CNPMNC\Thuchanhcnpm\obj\Debug\netcoreapp3.1\Thuchanhcnpm.AssemblyInfo.cs
+C:\Users\admin\Source\Repos\CNPMNC\Thuchanhcnpm\obj\Debug\netcoreapp3.1\Thuchanhcnpm.csproj.CoreCompileInputs.cache
+C:\Users\admin\Source\Repos\CNPMNC\Thuchanhcnpm\obj\Debug\netcoreapp3.1\Thuchanhcnpm.dll
+C:\Users\admin\Source\Repos\CNPMNC\Thuchanhcnpm\obj\Debug\netcoreapp3.1\Thuchanhcnpm.pdb
+C:\Users\admin\Source\Repos\CNPMNC\Thuchanhcnpm\obj\Debug\netcoreapp3.1\Thuchanhcnpm.genruntimeconfig.cache
